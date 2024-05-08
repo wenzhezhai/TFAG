@@ -1,0 +1,26 @@
+*.zip
+*.mat
+.DS_Store
+.ipynb_checkpoints
+*.pyc
+cache*
+*.pkl
+*.ply
+
+# evaluation:
+*.mp4
+test_runs
+downloads
+exp_data
+training_runs
+*png
+*jpg
+input_imgs
+checkpoints
+pose_estimation/BFM
+*.pth
+*.npy
+*.npz
+test_runs
+mini_test
+.hypothesis
